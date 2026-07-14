@@ -150,8 +150,8 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2074755125}
   - {fileID: 751015631}
+  - {fileID: 2074755125}
   m_Father: {fileID: 641064346}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -410,8 +410,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: SceneChanger1, Assembly-CSharp
+      - m_Target: {fileID: 1803277484}
+        m_TargetAssemblyTypeName: SceneChanger8, Assembly-CSharp
         m_MethodName: ChangeSceneBasedOnActiveImage
         m_Mode: 1
         m_Arguments:
@@ -576,7 +576,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8260585741547346337, guid: 497260a784b191a40943cbd4bb23cf68, type: 3}
+  m_Sprite: {fileID: 1848800964627135201, guid: 5a08708dc347fa244935de42f31f52e1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -929,7 +929,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -239, y: 419}
+  m_AnchoredPosition: {x: -87, y: 419}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1585522666
@@ -952,7 +952,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u30B0\u30EA\u30FC\u30F3\u30E9\u30A4\u30C4\u30FB\u30BB\u30EC\u30CA\u30FC\u30C7\u306F\u3069\u3063\u3061\u3067\u3057\u3087\u3046\uFF1F"
+  m_text: "\u541B\u304C\u98DB\u3073\u964D\u308A\u308B\u306E\u306A\u3089\u306F\u3069\u3063\u3061\u3067\u3057\u3087\u3046\uFF1F"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
   m_sharedMaterial: {fileID: -7234399140521027600, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
@@ -1152,11 +1152,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1803277481}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f7d6602a80080d49b12a9506d0173ae, type: 3}
+  m_Script: {fileID: 11500000, guid: 758953ea2519a644385e1bfcb21fe348, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
-  imageA: {fileID: 2074755124}
-  imageB: {fileID: 751015630}
+  m_EditorClassIdentifier: Assembly-CSharp::SceneChanger8
+  imageA: {fileID: 905508501}
+  imageB: {fileID: 1123531859}
 --- !u!1 &2024160724
 GameObject:
   m_ObjectHideFlags: 0
@@ -1410,7 +1410,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4081034470371059393, guid: 2cf4b0e131b4a9a468dedaf185186f5f, type: 3}
+  m_Sprite: {fileID: -3631220017856304567, guid: 1ef683ce5ee814745b5f6fdff47553a9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

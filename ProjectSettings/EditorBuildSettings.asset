@@ -48,25 +48,25 @@ EditorBuildSettings:
     path: Assets/Scenes/Q5.unity
     guid: 5149364c584fdfe4ab2038a7e4bc06be
   - enabled: 1
-    path: Assets/Scenes/FalseScene5.unity
+    path: Assets/Scenes/FalseScene7.unity
     guid: 4665c84fb2c37784ca5fb5bed3c5af9d
   - enabled: 1
-    path: Assets/Scenes/TrueScene5.unity
+    path: Assets/Scenes/TrueScene6.unity
     guid: f392f4f878caaeb4db41ff87586b5a71
   - enabled: 1
     path: Assets/Scenes/Q6.unity
     guid: 54638d0d5382b7244b0c207ff30a3b9b
   - enabled: 1
-    path: Assets/Scenes/FalseScene6.unity
+    path: Assets/Scenes/FalseScene5.unity
     guid: 290471b97acba6a48844bfa5043d8bfe
   - enabled: 1
-    path: Assets/Scenes/TrueScene6.unity
+    path: Assets/Scenes/TrueScene5.unity
     guid: 625f5c53a538f3a488543abc71a0c89b
   - enabled: 1
     path: Assets/Scenes/Q7.unity
     guid: 3e9eb66a66758984e9c3c99f97ae819b
   - enabled: 1
-    path: Assets/Scenes/FalseScene7.unity
+    path: Assets/Scenes/FalseScene6.unity
     guid: 9992ad0adb8f14740a2474948b226af0
   - enabled: 1
     path: Assets/Scenes/TrueScene7.unity

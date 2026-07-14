@@ -255,7 +255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u3053\u3061\u3089\u306F\u4F8B\u3048\u3070\u3001\u4ECA\u6B64\u51E6\u306B\u7F6E\u304B\u308C\u305F\u82B1\u306B\u3068\u3044\u3046164\u3055\u3093\u306E\u697D\u66F2\u3067\u3059\u3002\n\u4E21\u65B9\u3068\u3082\u3044\u3044\u66F2\u306A\u306E\u3067\u8074\u3044\u3066\u307F\u3066\u306D\uFF01"
+  m_text: "\u3053\u3061\u3089\u306FVOCAEND\u3068\u3044\u3046\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u306C\u3055\u3093\u306E\u697D\u66F2\u3067\u3059\u3002\n\u898B\u305F\u76EE\u3068\u306F\u9055\u3063\u3066\u58EE\u5927\u306A\u66F2\u306A\u306E\u3067\u8074\u3044\u3066\u307F\u3066\u306D\uFF01"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
   m_sharedMaterial: {fileID: -7234399140521027600, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
@@ -321,7 +321,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -625.85724, y: 0, z: -672.65015, w: 0}
+  m_margin: {x: -625.85724, y: 0, z: -844.8262, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -481,7 +481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa649506b89d32544bd2111f167589d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _loadScene: Q4
+  _loadScene: Q9
 --- !u!1 &1056544791
 GameObject:
   m_ObjectHideFlags: 0

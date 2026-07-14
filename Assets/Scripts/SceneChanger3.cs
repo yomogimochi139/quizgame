@@ -13,13 +13,13 @@ public class SceneChanger3 : MonoBehaviour
     {
         if (imageA.activeSelf)
         {
-            // imageAがアクティブならFalseScene3へ
-            SceneManager.LoadScene("FalseScene3");
+            // imageAがアクティブならFalseScene4へ
+            SceneManager.LoadScene("FalseScene4");
         }
         else if (imageB.activeSelf)
         {
-            // imageBがアクティブならTrueScene3へ
-            SceneManager.LoadScene("TrueScene3");
+            // imageBがアクティブならTrueScene4へ
+            SceneManager.LoadScene("TrueScene4");
         }
         else
         {
