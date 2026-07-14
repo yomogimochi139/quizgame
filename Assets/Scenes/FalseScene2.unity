@@ -232,7 +232,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 322, y: -202}
+  m_AnchoredPosition: {x: 73, y: -202}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725974417
@@ -255,7 +255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u30AA\u30B9\u306F\u9BAE\u3084\u304B\u306A\u7DD1\u8272\u306E\u982D\u3092\u3057\u3066\u3044\u307E\u3059\u3002"
+  m_text: "\u3053\u306E\u66F2\u306F\u30C8\u30A5\u30FC\u30FB\u30E6\u30FC\u30FB\u30B0\u30EA\u30FC\u30F3\u30E9\u30A4\u30C4\u3068\u3044\u3046\n\u30B0\u30EA\u30FC\u30F3\u30E9\u30A4\u30C4\u30FB\u30BB\u30EC\u30CA\u30FC\u30C7\u306E\u7D9A\u304D\u306E\u697D\u66F2\u3060\u304B\u3089\u4E00\u7DD2\u306B\u8074\u3044\u3066\u307F\u3066\u306D\uFF01"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
   m_sharedMaterial: {fileID: -7234399140521027600, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
@@ -293,6 +293,7 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -320,7 +321,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -625.85724, y: 0, z: -672.65015, w: 0}
+  m_margin: {x: -625.85724, y: 0, z: -916.5708, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -480,7 +481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa649506b89d32544bd2111f167589d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _loadScene: 3rdOsu
+  _loadScene: Q3
 --- !u!1 &1056544791
 GameObject:
   m_ObjectHideFlags: 0
@@ -610,7 +611,6 @@ MonoBehaviour:
   m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
-  m_Version: 2
   m_TaaSettings:
     m_Quality: 3
     m_FrameInfluence: 0.1
@@ -618,6 +618,7 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+  m_Version: 2
 --- !u!1 &1642674726
 GameObject:
   m_ObjectHideFlags: 0
@@ -713,6 +714,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
